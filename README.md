@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwichabe&label=Profile%20views&color=0e75b6&style=flat" alt="mwichabe" /> </p>
 
-- 🔭 I’m currently working on [GamCare Project](https://github.com/handarobinn/irobtechshereheappflutter)
+- 🔭 I’m currently working on [Socian Employer App](https://github.com/handarobinn/irobtechshereheappflutter)
 
 - 🌱 I’m currently learning **Django**
 
