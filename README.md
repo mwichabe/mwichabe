@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Socian Employer App](https://github.com/handarobinn/irobtechshereheappflutter)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on [Food Delivery App](https://github.com/mwichabe/food_delivery_App)
 
