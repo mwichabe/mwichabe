@@ -1,28 +1,134 @@
-<h1 align="center">Hi 👋, I'm Mwichabe Collins</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center">
+  
+  <!-- Banner / Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=180&section=header&text=Collins%20Mwichabe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%20%26%20MERN%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwichabe&label=Profile%20views&color=0e75b6&style=flat" alt="mwichabe" /> </p>
+  <br/>
 
-- 🔭 I’m currently working on [Socian Employer App](https://github.com/handarobinn/irobtechshereheappflutter)
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Flutter+%7C+React+%7C+React+Native;Building+beautiful+apps+with+MERN;Open+to+collaboration+%26+opportunities" alt="Typing SVG" />
+  </a>
 
-- 🌱 I’m currently learning **MERN**
+  <br/><br/>
 
-- 👯 I’m looking to collaborate on [Food Delivery App](https://github.com/mwichabe/food_delivery_App)
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=mwichabe&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mwichabe?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
+  <a href="https://cmwichabe.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 
-- 💬 Ask me about **Flutter|React|React-Native|Python|Java**
+</div>
 
-- 📫 How to reach me **mwichabecollins@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/collins mwichabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins mwichabe" height="30" width="40" /></a>
+### 👋 About Me
+
+I'm a **Software Developer** from Kenya specializing in **cross-platform mobile apps** (Flutter) and **full-stack web development** (MERN). I love turning ideas into polished, user-friendly products that people actually enjoy using.
+
+- 🔭 Currently building impactful apps (FinTech, Social, E-commerce & more)
+- 🌱 Deepening my skills in the **MERN stack** + modern backend practices
+- 💼 Self-employed · Remote · Open to freelance & full-time opportunities
+- ⚡ Fun fact: I ship apps from idea → Play Store
+
+---
+
+### 🛠️ Tech Stack
+
+#### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ Nivora E-commerce</h3>
+      <p>Full MERN stack e-commerce platform with modern UI and seamless shopping experience.</p>
+      <a href="https://github.com/mwichabe/Nivora-ecommerce">
+        <img src="https://img.shields.io/badge/View_Repo-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💬 LinkUp (Social App)</h3>
+      <p>Real-time chat & social app built with Flutter + MongoDB. Published on Play Store.</p>
+      <a href="https://github.com/mwichabe/Linkup_v3">
+        <img src="https://img.shields.io/badge/View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💼 Best Candidate</h3>
+      <p>AI-powered resume builder & job-seeking mobile app (Flutter).</p>
+      <a href="https://github.com/mwichabe/Best-Candidate">
+        <img src="https://img.shields.io/badge/View_Repo-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🍔 Food Delivery App</h3>
+      <p>Looking for collaborators! Flutter-based food delivery experience.</p>
+      <a href="https://github.com/mwichabe/food_delivery_App">
+        <img src="https://img.shields.io/badge/Collaborate-10b981?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwichabe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwichabe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwichabe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:mwichabecollins@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mwichabecollins%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/collins-mwichabe1345">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://cmwichabe.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwichabe&show_icons=true&locale=en&layout=compact" alt="mwichabe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwichabe&show_icons=true&locale=en" alt="mwichabe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwichabe&" alt="mwichabe" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=100&section=footer"/>
+</div>
