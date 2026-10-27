@@ -136,5 +136,5 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=100&section=footer"/>
+  <img src="./footer.svg" width="100%"/>
 </div>
