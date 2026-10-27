@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; text-anchor: middle; }
+      .title { font-size: 42px; font-weight: 700; animation: fade 1.2s ease-in both; }
+      .desc { font-size: 18px; font-weight: 500; opacity: .92; animation: fade 1.2s ease-in .4s both; }
+      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0 H1200 V130 C1050 175 900 105 750 135 C600 165 450 110 300 140 C180 162 80 140 0 125 Z"/>
+  <path fill="url(#g)" opacity=".35" d="M0 0 H1200 V150 C1080 120 950 170 800 150 C650 130 500 175 350 155 C220 138 100 165 0 150 Z"/>
+  <text class="t title" x="600" y="68">Collins Mwichabe</text>
+  <text class="t desc" x="600" y="104">Software Developer | Flutter &amp; MERN Specialist</text>
+</svg>
