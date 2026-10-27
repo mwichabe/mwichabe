@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner / Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=180&section=header&text=Collins%20Mwichabe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%20%26%20MERN%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+ <img src="./assets/header.svg" width="100%" alt="Collins Mwichabe — Software Developer"/>
 
   <br/>
 
