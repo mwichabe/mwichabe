@@ -23,7 +23,7 @@
 
 <br/>
 
-### 👋 About Me
+### About Me
 
 I'm a **Software Developer** from Kenya specializing in **cross-platform mobile apps** (Flutter) and **full-stack web development** (MERN). I love turning ideas into polished, user-friendly products that people actually enjoy using.
 
@@ -34,7 +34,7 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -59,12 +59,12 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🛍️ Nivora E-commerce</h3>
+      <h3> Nivora E-commerce</h3>
       <p>Full MERN stack e-commerce platform with modern UI and seamless shopping experience.</p>
       <a href="https://github.com/mwichabe/Nivora-ecommerce">
         <img src="https://img.shields.io/badge/View_Repo-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -80,14 +80,14 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
   </tr>
   <tr>
     <td width="50%">
-      <h3>💼 Best Candidate</h3>
+      <h3> Best Candidate</h3>
       <p>AI-powered resume builder & job-seeking mobile app (Flutter).</p>
       <a href="https://github.com/mwichabe/Best-Candidate">
         <img src="https://img.shields.io/badge/View_Repo-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%">
-      <h3>🍔 Food Delivery App</h3>
+      <h3>Food Delivery App</h3>
       <p>Looking for collaborators! Flutter-based food delivery experience.</p>
       <a href="https://github.com/mwichabe/food_delivery_App">
         <img src="https://img.shields.io/badge/Collaborate-10b981?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,7 +98,7 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwichabe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -119,7 +119,7 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:mwichabecollins@gmail.com">
