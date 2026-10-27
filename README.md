@@ -71,7 +71,7 @@ I'm a **Software Developer** from Kenya specializing in **cross-platform mobile 
       </a>
     </td>
     <td width="50%">
-      <h3>💬 LinkUp (Social App)</h3>
+      <h3>LinkUp (Social App)</h3>
       <p>Real-time chat & social app built with Flutter + MongoDB. Published on Play Store.</p>
       <a href="https://github.com/mwichabe/Linkup_v3">
         <img src="https://img.shields.io/badge/View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
