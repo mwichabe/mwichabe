@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner / Header -->
- <img src="./assets/header.svg" width="100%" alt="Collins Mwichabe — Software Developer"/>
+ <img src="./header.svg" width="100%" alt="Collins Mwichabe — Software Developer"/>
 
   <br/>
 
