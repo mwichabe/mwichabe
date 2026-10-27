@@ -27,10 +27,10 @@
 
 I'm a **Software Developer** from Kenya specializing in **cross-platform mobile apps** (Flutter) and **full-stack web development** (MERN). I love turning ideas into polished, user-friendly products that people actually enjoy using.
 
-- 🔭 Currently building impactful apps (FinTech, Social, E-commerce & more)
-- 🌱 Deepening my skills in the **MERN stack** + modern backend practices
-- 💼 Self-employed · Remote · Open to freelance & full-time opportunities
-- ⚡ Fun fact: I ship apps from idea → Play Store
+- Currently building impactful apps (FinTech, Social, E-commerce & more)
+- Deepening my skills in the **MERN stack** + modern backend practices
+- Self-employed · Remote · Open to freelance & full-time opportunities
+- Fun fact: I ship apps from idea → Play Store
 
 ---
 
